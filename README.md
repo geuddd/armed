@@ -1,1 +1,1 @@
-# armed
+<iframe src="https://app-182760.games.s3.yandex.net/182760/h2158qfbyz62nb61fxa4jirvu88bq24f/index.html" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no"></iframe></div>
